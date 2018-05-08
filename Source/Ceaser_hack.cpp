@@ -92,7 +92,7 @@ void separate(string ent)
 				if (alf[j] == ent[i])
 				{
 					str += alf[j-key];
-					flag = 1; //Is an letter
+					flag = 1; //Is a letter
 					break;
 				}
 			}
